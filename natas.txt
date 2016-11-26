@@ -1,0 +1,13 @@
+natas2
+ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
+--check the files dir that the image is in
+
+natas3
+sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
+--check robots.txt to see if it exists and if so what directories/files might exists
+
+natas4
+Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
+-- use burp to change the referer or go to the expected page and edit the html
+natas5
+iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq 
